@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311918, g: 0.3807398, b: 0.35872716, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -126,7 +126,7 @@ GameObject:
   - component: {fileID: 105832930}
   - component: {fileID: 105832933}
   m_Layer: 0
-  m_Name: Reasons
+  m_Name: SJTHistory
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -210,7 +210,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 371b26fbdc9ecf245a3551194faf914f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: TaikoReasonsForJoining
+  sceneName: TaikoSJHistory
   materialOn: {fileID: 2100000, guid: df0fc7e8e24bc4e49a14a77416fa7968, type: 2}
   materialOff: {fileID: 2100000, guid: 100b852482c8db94c860b4e168c8d9f2, type: 2}
 --- !u!1 &391693112

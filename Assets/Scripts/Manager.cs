@@ -25,7 +25,7 @@ public class Manager : MonoBehaviour {
 		if(scene == 3)
 		{
 			// go to why the joined
-			SceneManager.LoadScene("TaikoReasonsForJoining");
+			SceneManager.LoadScene("TaikoSJHistory");
 			if(Time.timeSinceLevelLoad > 10)
 			{
 				// go back to menu
@@ -36,7 +36,7 @@ public class Manager : MonoBehaviour {
 		if(scene == 2)
 		{
 			// go to personal stories
-			SceneManager.LoadScene("TaikoReasonsForJoining");
+			SceneManager.LoadScene("TaikoSJHistory");
 			if(Time.timeSinceLevelLoad > 10)
 			{
 				// go back to menu
