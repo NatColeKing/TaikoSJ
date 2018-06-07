@@ -15,6 +15,6 @@ EditorBuildSettings:
     path: Assets/_Scenes/TaikoPersonalStories.unity
     guid: 511f8cf5fc776c941b70a01115e541d5
   - enabled: 1
-    path: Assets/_Scenes/TaikoReasonsForJoining.unity
+    path: Assets/_Scenes/TaikoSJHistory.unity
     guid: 61813b792a31b8a44932293a18e114b3
   m_configObjects: {}
